@@ -1,0 +1,32 @@
+[
+  {
+    "_index": "packets-2020-10-02",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.interface_name": [
+          "enp4s0"
+        ],
+        "frame.number": [
+          "1"
+        ],
+        "frame.time_epoch": [
+          "1601684944.356786445"
+        ],
+        "frame.len": [
+          "180"
+        ],
+        "frame.protocols": [
+          "eth:ethertype:ipv6:udp:dhcpv6"
+        ],
+        "ipv6.src": [
+          "fe80::85d:9a12:285a:aaaa"
+        ],
+        "ipv6.dst": [
+          "ff02::1:2"
+        ]
+      }
+    }
+  }
+]

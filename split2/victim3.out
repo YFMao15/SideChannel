@@ -1,0 +1,362 @@
+[
+  {
+    "_index": "packets-2020-10-02",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.interface_name": [
+          "enp4s0"
+        ],
+        "frame.number": [
+          "1"
+        ],
+        "frame.time_epoch": [
+          "1601684869.677012991"
+        ],
+        "frame.len": [
+          "150"
+        ],
+        "frame.protocols": [
+          "eth:ethertype:ipv6:ipv6.hopopts:icmpv6"
+        ],
+        "ipv6.src": [
+          "fe80::d3e:d6b9:13f6:6cdf"
+        ],
+        "ipv6.dst": [
+          "ff02::16"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2020-10-02",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.interface_name": [
+          "enp4s0"
+        ],
+        "frame.number": [
+          "2"
+        ],
+        "frame.time_epoch": [
+          "1601684869.837481967"
+        ],
+        "frame.len": [
+          "180"
+        ],
+        "frame.protocols": [
+          "eth:ethertype:ipv6:udp:dhcpv6"
+        ],
+        "ipv6.src": [
+          "fe80::85d:9a12:285a:aaaa"
+        ],
+        "ipv6.dst": [
+          "ff02::1:2"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2020-10-02",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.interface_name": [
+          "enp4s0"
+        ],
+        "frame.number": [
+          "3"
+        ],
+        "frame.time_epoch": [
+          "1601684869.897344235"
+        ],
+        "frame.len": [
+          "150"
+        ],
+        "frame.protocols": [
+          "eth:ethertype:ipv6:ipv6.hopopts:icmpv6"
+        ],
+        "ipv6.src": [
+          "fe80::d3e:d6b9:13f6:6cdf"
+        ],
+        "ipv6.dst": [
+          "ff02::16"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2020-10-02",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.interface_name": [
+          "enp4s0"
+        ],
+        "frame.number": [
+          "4"
+        ],
+        "frame.time_epoch": [
+          "1601684870.660575154"
+        ],
+        "frame.len": [
+          "86"
+        ],
+        "frame.protocols": [
+          "eth:ethertype:ipv6:icmpv6"
+        ],
+        "ipv6.src": [
+          "fe80::d3e:d6b9:13f6:6cdf"
+        ],
+        "ipv6.dst": [
+          "ff02::1"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2020-10-02",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.interface_name": [
+          "enp4s0"
+        ],
+        "frame.number": [
+          "5"
+        ],
+        "frame.time_epoch": [
+          "1601684870.684367777"
+        ],
+        "frame.len": [
+          "130"
+        ],
+        "frame.protocols": [
+          "eth:ethertype:ipv6:ipv6.hopopts:icmpv6"
+        ],
+        "ipv6.src": [
+          "fe80::3ca9:808b:8ad5:be63"
+        ],
+        "ipv6.dst": [
+          "ff02::16"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2020-10-02",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.interface_name": [
+          "enp4s0"
+        ],
+        "frame.number": [
+          "6"
+        ],
+        "frame.time_epoch": [
+          "1601684871.662335515"
+        ],
+        "frame.len": [
+          "86"
+        ],
+        "frame.protocols": [
+          "eth:ethertype:ipv6:icmpv6"
+        ],
+        "ipv6.src": [
+          "fe80::d3e:d6b9:13f6:6cdf"
+        ],
+        "ipv6.dst": [
+          "ff02::1"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2020-10-02",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.interface_name": [
+          "enp4s0"
+        ],
+        "frame.number": [
+          "7"
+        ],
+        "frame.time_epoch": [
+          "1601684876.788163522"
+        ],
+        "frame.len": [
+          "234"
+        ],
+        "frame.protocols": [
+          "eth:ethertype:ipv6:udp:dhcpv6"
+        ],
+        "ipv6.src": [
+          "fe80::d3e:d6b9:13f6:6cdf"
+        ],
+        "ipv6.dst": [
+          "ff02::1:2"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2020-10-02",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.interface_name": [
+          "enp4s0"
+        ],
+        "frame.number": [
+          "8"
+        ],
+        "frame.time_epoch": [
+          "1601684876.791776881"
+        ],
+        "frame.len": [
+          "86"
+        ],
+        "frame.protocols": [
+          "eth:ethertype:ipv6:icmpv6"
+        ],
+        "ipv6.src": [
+          "fe80::d3e:d6b9:13f6:6cdf"
+        ],
+        "ipv6.dst": [
+          "ff02::1"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2020-10-02",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.interface_name": [
+          "enp4s0"
+        ],
+        "frame.number": [
+          "9"
+        ],
+        "frame.time_epoch": [
+          "1601684876.817426287"
+        ],
+        "frame.len": [
+          "150"
+        ],
+        "frame.protocols": [
+          "eth:ethertype:ipv6:ipv6.hopopts:icmpv6"
+        ],
+        "ipv6.src": [
+          "fe80::d3e:d6b9:13f6:6cdf"
+        ],
+        "ipv6.dst": [
+          "ff02::16"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2020-10-02",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.interface_name": [
+          "enp4s0"
+        ],
+        "frame.number": [
+          "10"
+        ],
+        "frame.time_epoch": [
+          "1601684877.247336900"
+        ],
+        "frame.len": [
+          "150"
+        ],
+        "frame.protocols": [
+          "eth:ethertype:ipv6:ipv6.hopopts:icmpv6"
+        ],
+        "ipv6.src": [
+          "fe80::d3e:d6b9:13f6:6cdf"
+        ],
+        "ipv6.dst": [
+          "ff02::16"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2020-10-02",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.interface_name": [
+          "enp4s0"
+        ],
+        "frame.number": [
+          "11"
+        ],
+        "frame.time_epoch": [
+          "1601684877.794772719"
+        ],
+        "frame.len": [
+          "86"
+        ],
+        "frame.protocols": [
+          "eth:ethertype:ipv6:icmpv6"
+        ],
+        "ipv6.src": [
+          "fe80::d3e:d6b9:13f6:6cdf"
+        ],
+        "ipv6.dst": [
+          "ff02::1"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2020-10-02",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.interface_name": [
+          "enp4s0"
+        ],
+        "frame.number": [
+          "12"
+        ],
+        "frame.time_epoch": [
+          "1601684878.796535048"
+        ],
+        "frame.len": [
+          "86"
+        ],
+        "frame.protocols": [
+          "eth:ethertype:ipv6:icmpv6"
+        ],
+        "ipv6.src": [
+          "fe80::d3e:d6b9:13f6:6cdf"
+        ],
+        "ipv6.dst": [
+          "ff02::1"
+        ]
+      }
+    }
+  }
+]
